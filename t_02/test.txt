@@ -1,2 +1,0 @@
-sort_main_bubble |sort and show the list of literature by inc. of number of pages using "bubble" algorythm;
-Toolongmorethan25exactly2
